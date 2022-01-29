@@ -11,4 +11,6 @@ I have used very similar functions both to read fruits and their prices, as well
 
 I have not performed any testing (other than switching between different input files to check, as I coded, that the result was correct). With more time and in a real scenario I would have liked to elaborate first the unitary tests (with a good amount of input files) to later dedicate the time to code the exercise, however this would not have been possible in 3 hours, so I preferred to dispense with such exhaustive tests.
 
+In general I would like to improve the security of array accesses and change System.out by a Logger or directly writting in a file. And I didn't find usefull to use comments in the code because for now is too simple.
+
 In last term, I would like to delve into the offers and their format, since this is a very extensive requirement with a very high potential, so in 3 hours it would be impossible for me to decide a good data structure that contemplates all the formats of the possible offers, so for now the offers are not automatically applied in the program, and will only be shown in the output when the fruit to which they apply has been purchased, as a simple String.
